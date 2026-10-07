@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "face=ceiling,facing=east": {
+      "model": "panels:block/mossy_stone_brick_panel_ceiling"
+    },
+    "face=ceiling,facing=north": {
+      "model": "panels:block/mossy_stone_brick_panel_ceiling"
+    },
+    "face=ceiling,facing=south": {
+      "model": "panels:block/mossy_stone_brick_panel_ceiling"
+    },
+    "face=ceiling,facing=west": {
+      "model": "panels:block/mossy_stone_brick_panel_ceiling"
+    },
+    "face=floor,facing=east": {
+      "model": "panels:block/mossy_stone_brick_panel_floor"
+    },
+    "face=floor,facing=north": {
+      "model": "panels:block/mossy_stone_brick_panel_floor"
+    },
+    "face=floor,facing=south": {
+      "model": "panels:block/mossy_stone_brick_panel_floor"
+    },
+    "face=floor,facing=west": {
+      "model": "panels:block/mossy_stone_brick_panel_floor"
+    },
+    "face=wall,facing=east": {
+      "model": "panels:block/mossy_stone_brick_panel_wall",
+      "y": 90
+    },
+    "face=wall,facing=north": {
+      "model": "panels:block/mossy_stone_brick_panel_wall"
+    },
+    "face=wall,facing=south": {
+      "model": "panels:block/mossy_stone_brick_panel_wall",
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "panels:block/mossy_stone_brick_panel_wall",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "panels:block/granite_panel_floor"
+  }
+}

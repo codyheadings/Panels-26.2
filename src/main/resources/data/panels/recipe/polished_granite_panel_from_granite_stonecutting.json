@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:granite",
+  "result": {
+    "count": 3,
+    "id": "panels:polished_granite_panel"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "panels:block/panel_block_wall",
+  "textures": {
+    "front": "panels:block/basalt_panel",
+    "side": "panels:block/basalt_panel"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "panels",
+  "key": {
+    "#": "minecraft:coal_block"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "panels:coal_panel"
+  }
+}

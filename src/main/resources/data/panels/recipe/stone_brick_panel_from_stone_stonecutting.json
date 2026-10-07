@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:stone",
+  "result": {
+    "count": 3,
+    "id": "panels:stone_brick_panel"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "panels:block/iron_panel_floor"
+  }
+}

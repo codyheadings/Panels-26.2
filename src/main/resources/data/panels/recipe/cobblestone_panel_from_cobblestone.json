@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "panels",
+  "key": {
+    "#": "minecraft:cobblestone"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "panels:cobblestone_panel"
+  }
+}

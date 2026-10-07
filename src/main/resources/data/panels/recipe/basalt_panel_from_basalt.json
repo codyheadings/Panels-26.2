@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "panels",
+  "key": {
+    "#": "minecraft:basalt"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "panels:basalt_panel"
+  }
+}

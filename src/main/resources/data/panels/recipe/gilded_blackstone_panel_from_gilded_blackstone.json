@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "panels",
+  "key": {
+    "#": "minecraft:gilded_blackstone"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "panels:gilded_blackstone_panel"
+  }
+}

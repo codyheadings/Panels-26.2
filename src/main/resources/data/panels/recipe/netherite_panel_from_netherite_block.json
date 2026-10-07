@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "panels",
+  "key": {
+    "#": "minecraft:netherite_block"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 9,
+    "id": "panels:netherite_panel"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "panels:block/panel_block_ceiling",
+  "textures": {
+    "front": "panels:block/quartz_panel",
+    "side": "panels:block/quartz_panel"
+  }
+}

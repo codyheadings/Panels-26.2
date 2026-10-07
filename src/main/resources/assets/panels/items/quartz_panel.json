@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "panels:block/quartz_panel_floor"
+  }
+}

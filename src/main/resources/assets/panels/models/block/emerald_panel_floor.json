@@ -1,0 +1,7 @@
+{
+  "parent": "panels:block/panel_block_floor",
+  "textures": {
+    "front": "panels:block/emerald_panel",
+    "side": "panels:block/emerald_panel"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 3,
+    "id": "panels:polished_andesite_panel"
+  }
+}

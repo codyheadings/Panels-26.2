@@ -1,0 +1,7 @@
+{
+  "parent": "panels:block/panel_block_floor",
+  "textures": {
+    "front": "panels:block/calcite_panel",
+    "side": "panels:block/calcite_panel"
+  }
+}

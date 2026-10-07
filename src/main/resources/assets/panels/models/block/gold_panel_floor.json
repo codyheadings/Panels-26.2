@@ -1,0 +1,7 @@
+{
+  "parent": "panels:block/panel_block_floor",
+  "textures": {
+    "front": "panels:block/gold_panel",
+    "side": "panels:block/gold_panel"
+  }
+}
