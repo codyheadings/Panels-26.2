@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:smooth_basalt_panel_from_smooth_basalt"
+        "recipes": "panels:smooth_basalt_panel_from_smooth_basalt"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

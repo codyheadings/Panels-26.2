@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_andesite_panel_from_polished_andesite"
+        "recipes": "panels:polished_andesite_panel_from_polished_andesite"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

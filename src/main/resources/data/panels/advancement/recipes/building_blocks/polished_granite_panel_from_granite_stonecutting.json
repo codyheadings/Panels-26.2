@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_granite_panel_from_granite_stonecutting"
+        "recipes": "panels:polished_granite_panel_from_granite_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

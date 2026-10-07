@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:deepslate_brick_panel_from_deepslate_stonecutting"
+        "recipes": "panels:deepslate_brick_panel_from_deepslate_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

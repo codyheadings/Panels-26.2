@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:emerald_panel_from_emerald_block"
+        "recipes": "panels:emerald_panel_from_emerald_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

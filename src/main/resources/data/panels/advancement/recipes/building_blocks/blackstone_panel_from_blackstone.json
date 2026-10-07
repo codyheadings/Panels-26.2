@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:blackstone_panel_from_blackstone"
+        "recipes": "panels:blackstone_panel_from_blackstone"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

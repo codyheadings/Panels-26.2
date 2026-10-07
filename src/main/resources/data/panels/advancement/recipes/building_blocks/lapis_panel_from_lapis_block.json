@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:lapis_panel_from_lapis_block"
+        "recipes": "panels:lapis_panel_from_lapis_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

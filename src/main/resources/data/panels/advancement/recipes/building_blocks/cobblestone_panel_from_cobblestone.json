@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:cobblestone_panel_from_cobblestone"
+        "recipes": "panels:cobblestone_panel_from_cobblestone"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

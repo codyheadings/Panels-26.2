@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:iron_panel_from_iron_block"
+        "recipes": "panels:iron_panel_from_iron_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

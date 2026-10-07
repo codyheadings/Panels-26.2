@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:mossy_cobblestone_panel_from_mossy_cobblestone_stonecutting"
+        "recipes": "panels:mossy_cobblestone_panel_from_mossy_cobblestone_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

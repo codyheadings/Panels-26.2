@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_diorite_panel_from_polished_diorite"
+        "recipes": "panels:polished_diorite_panel_from_polished_diorite"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

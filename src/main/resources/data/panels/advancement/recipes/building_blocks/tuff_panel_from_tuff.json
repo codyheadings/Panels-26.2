@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:tuff_panel_from_tuff"
+        "recipes": "panels:tuff_panel_from_tuff"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

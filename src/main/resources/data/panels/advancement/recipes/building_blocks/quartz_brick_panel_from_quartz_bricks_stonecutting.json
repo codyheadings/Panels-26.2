@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:quartz_brick_panel_from_quartz_bricks_stonecutting"
+        "recipes": "panels:quartz_brick_panel_from_quartz_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_blackstone_panel_from_polished_blackstone_stonecutting"
+        "recipes": "panels:polished_blackstone_panel_from_polished_blackstone_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

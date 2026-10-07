@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:calcite_panel_from_calcite_stonecutting"
+        "recipes": "panels:calcite_panel_from_calcite_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

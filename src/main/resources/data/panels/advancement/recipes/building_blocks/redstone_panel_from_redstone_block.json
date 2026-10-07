@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:redstone_panel_from_redstone_block"
+        "recipes": "panels:redstone_panel_from_redstone_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

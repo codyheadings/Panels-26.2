@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_tuff_panel_from_tuff_stonecutting"
+        "recipes": "panels:polished_tuff_panel_from_tuff_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

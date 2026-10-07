@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:gilded_blackstone_panel_from_gilded_blackstone_stonecutting"
+        "recipes": "panels:gilded_blackstone_panel_from_gilded_blackstone_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

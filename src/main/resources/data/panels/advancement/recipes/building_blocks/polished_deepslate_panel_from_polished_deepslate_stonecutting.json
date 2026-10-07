@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:polished_deepslate_panel_from_polished_deepslate_stonecutting"
+        "recipes": "panels:polished_deepslate_panel_from_polished_deepslate_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

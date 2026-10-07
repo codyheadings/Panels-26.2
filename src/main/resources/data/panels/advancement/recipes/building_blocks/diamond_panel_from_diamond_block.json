@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:diamond_panel_from_diamond_block"
+        "recipes": "panels:diamond_panel_from_diamond_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

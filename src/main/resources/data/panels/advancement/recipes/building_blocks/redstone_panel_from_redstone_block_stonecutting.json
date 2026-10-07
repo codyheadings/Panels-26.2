@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:redstone_panel_from_redstone_block_stonecutting"
+        "recipes": "panels:redstone_panel_from_redstone_block_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

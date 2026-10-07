@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:quartz_panel_from_quartz_block"
+        "recipes": "panels:quartz_panel_from_quartz_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

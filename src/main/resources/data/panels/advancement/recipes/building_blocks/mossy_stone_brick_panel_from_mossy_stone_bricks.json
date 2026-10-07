@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:mossy_stone_brick_panel_from_mossy_stone_bricks"
+        "recipes": "panels:mossy_stone_brick_panel_from_mossy_stone_bricks"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

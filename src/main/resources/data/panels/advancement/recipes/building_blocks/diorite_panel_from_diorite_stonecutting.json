@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:diorite_panel_from_diorite_stonecutting"
+        "recipes": "panels:diorite_panel_from_diorite_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

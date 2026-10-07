@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:stone_panel_from_stone"
+        "recipes": "panels:stone_panel_from_stone"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

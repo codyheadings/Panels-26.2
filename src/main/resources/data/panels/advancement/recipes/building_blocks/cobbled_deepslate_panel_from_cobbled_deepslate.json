@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "panels:cobbled_deepslate_panel_from_cobbled_deepslate"
+        "recipes": "panels:cobbled_deepslate_panel_from_cobbled_deepslate"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
